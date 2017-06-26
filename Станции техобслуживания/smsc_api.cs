@@ -5,7 +5,6 @@ using System.Net;
 using System.IO;
 using System.Net.Mail;
 using System.Text;
-using Станции_техобслуживания;
 
 public class SMSC
 {
