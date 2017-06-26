@@ -1,0 +1,31 @@
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\Станции техобслуживания.exe.config
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\Станции техобслуживания.exe
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\Станции техобслуживания.pdb
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции техобслуживания.csprojResolveAssemblyReference.cache
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Form1.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Properties.Resources.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Клиенты.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции техобслуживания.csproj.GenerateResource.Cache
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции техобслуживания.exe
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции техобслуживания.pdb
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Работа_с_клиентом.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Детали.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Заказ_деталей.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Поставщики.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Мастера.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Сотрудники.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.СТО_услуги_.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Отслеживание_клиентов.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Отправить_sms.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Покупка.resources
+c:\users\hasd\documents\visual studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Отслеживание_клиентов_список_клиентов_.resources
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Оформление_заказа.resources
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\GMap.NET.Core.dll
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\GMap.NET.Core.xml
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Авторизация.resources
+C:\Users\Hasd\Documents\Visual Studio 2013\Projects\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции_техобслуживания.Администратор.resources
+C:\Users\Admin\Downloads\Projects\Станции техобслуживания(готово)\Станции техобслуживания\Станции техобслуживания\bin\Debug\Станции техобслуживания.exe.config
+C:\Users\Admin\Downloads\Projects\Станции техобслуживания(готово)\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции техобслуживания.exe
+C:\Users\Admin\Downloads\Projects\Станции техобслуживания(готово)\Станции техобслуживания\Станции техобслуживания\obj\Debug\Станции техобслуживания.pdb
